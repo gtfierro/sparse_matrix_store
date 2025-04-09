@@ -1,0 +1,10 @@
+[project]
+name = "sparse-matrix-rdflib"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "rdflib>=7.1.4",
+    "scipy>=1.15.2",
+]
